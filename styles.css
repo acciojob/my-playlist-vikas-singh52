@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+
+
+body{
+	background-color:      ;
+	
+}
+.playlist{
+	paddong:10px;
+}
+.playlist h1,h2{
+	text-align:center;
+	margin-top:1px;
+}
+#list{
+	background-color:rgb(255,255,255);
+	border:1px solid black;
+	border-radius:5px;
+	line-height:25px;
+}
