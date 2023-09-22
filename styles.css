@@ -1,7 +1,7 @@
 
 
 body{
-	background-color:      ;
+	background-color: rgb(204, 204, 204)
 	
 }
 .playlist{
@@ -16,4 +16,27 @@ body{
 	border:1px solid black;
 	border-radius:5px;
 	line-height:25px;
+}
+#list li{
+	list-style-type:none;
+	text-align:left;
+	margin-left:-25px;
+}
+#list a{
+	text-decoration-line:none;
+	color:black;
+}
+.playing{
+	width:80%;
+	margin:auto;
+	background-color:rgb(255,255,255);
+	padding:10px;
+	border:1px solid black;
+	border-radius:5px;
+}
+.player
+	background-color:rgb(255,255,255);
+	width:100%;
+	padding:5px;
+	border-radius:5px;
 }
