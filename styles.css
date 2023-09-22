@@ -41,5 +41,5 @@ body{
 	border-radius:5px;
 }
 .player_one, .player_two{
-		background-colo:white;
+		background-colo:rgb(255,255,255);
 }
