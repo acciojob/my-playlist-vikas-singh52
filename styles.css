@@ -40,3 +40,6 @@ body{
 	padding:5px;
 	border-radius:5px;
 }
+.player_one, .player_two{
+		background-colo:white;
+}
